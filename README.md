@@ -1,2 +1,0 @@
-# BloggingAPI
-A Blogging API 
